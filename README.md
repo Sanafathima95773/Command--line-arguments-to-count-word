@@ -41,7 +41,8 @@ fp.close()
 ```
 
 ### OUTPUT:
-![image](https://github.com/Sanafathima95773/Command--line-arguments-to-count-word/assets/147084627/885375d8-e578-4ab7-9375-1ac824c60145)
+![image](https://github.com/Sanafathima95773/Command--line-arguments-to-count-word/assets/147084627/40969995-e35f-4337-bcc3-30e68672e1c3)
+
 
 
 ## RESULT:
